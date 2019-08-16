@@ -57,7 +57,7 @@
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		7829145FC24E9BF2A871EA57 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		7829145FC24E9BF2A871EA57 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		845B11F514C152F8697DE1A4 /* Pods-YuzhiKit_Local_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YuzhiKit_Local_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-YuzhiKit_Local_Tests/Pods-YuzhiKit_Local_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A74FAD7C40B17FC7A3F3A560 /* Pods_YuzhiKit_Local_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YuzhiKit_Local_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -65,8 +65,8 @@
 		C535A9872E15D463C8604ECA /* Pods_YuzhiKit_Local_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YuzhiKit_Local_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C77E73476C65A543FE4B947A /* Pods-YuzhiKit_Local_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YuzhiKit_Local_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-YuzhiKit_Local_Tests/Pods-YuzhiKit_Local_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		C8434D3A7CF585064C3591CD /* Pods-YuzhiKit_Local_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YuzhiKit_Local_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-YuzhiKit_Local_Example/Pods-YuzhiKit_Local_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		CCF11FFE182272710CBC8108 /* YuzhiKit_Local.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = YuzhiKit_Local.podspec; path = ../YuzhiKit_Local.podspec; sourceTree = "<group>"; };
-		FB27C1EB6F00C46584EAC28C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		CCF11FFE182272710CBC8108 /* YuzhiKit_Local.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = YuzhiKit_Local.podspec; path = ../YuzhiKit_Local.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		FB27C1EB6F00C46584EAC28C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

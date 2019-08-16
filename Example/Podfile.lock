@@ -1,0 +1,16 @@
+PODS:
+  - YuzhiKit_Local (0.1.0)
+
+DEPENDENCIES:
+  - YuzhiKit_Local (from `../`)
+
+EXTERNAL SOURCES:
+  YuzhiKit_Local:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YuzhiKit_Local: ab52480ba878a3d2d010d88de708c04a4973ad4c
+
+PODFILE CHECKSUM: b5f3420c9c5f09cd42932733a872f78e85e9ef34
+
+COCOAPODS: 1.5.3

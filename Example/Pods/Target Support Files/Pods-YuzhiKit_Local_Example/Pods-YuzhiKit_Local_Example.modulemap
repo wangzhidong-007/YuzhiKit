@@ -1,0 +1,6 @@
+framework module Pods_YuzhiKit_Local_Example {
+  umbrella header "Pods-YuzhiKit_Local_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
